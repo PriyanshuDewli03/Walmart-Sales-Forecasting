@@ -107,34 +107,6 @@ This forecasting solution can help retailers:
 
 ---
 
-## 📷 Sample Visualizations
-
-Store your plots inside an `images/` folder.
-
-Example:
-
-```text
-images/
-├── sales_trend.png
-├── heatmap.png
-├── forecast.png
-└── forecast_components.png
-```
-
-Then display them like this:
-
-```markdown
-### Sales Trend
-
-![Sales Trend](images/sales_trend.png)
-
-### Prophet Forecast
-
-![Forecast](images/forecast.png)
-```
-
----
-
 ## 🚀 Future Improvements
 
 - Compare Prophet with ARIMA and SARIMA
